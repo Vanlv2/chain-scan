@@ -1,0 +1,12 @@
+{
+  "rpc2": "https://arb1.arbitrum.io/rpc",  
+  "rpc": "https://arbitrum-mainnet.core.chainstack.com/f6c26e7f0f9d887b1555aa4a2b8f47fa", 
+  "wssRpc": "wss://arbitrum-mainnet.core.chainstack.com/f6c26e7f0f9d887b1555aa4a2b8f47fa",  
+  "ethContractAddress": "", 
+  "usdtContractAddress": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",  
+  "usdcContractAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831", 
+  "wrappedBTCAddress": "0x2f2a2543b76a4166549f7c59422a3f0d5f77b7d6",  
+  "transferSignature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",  
+  "chain": "arbitrum", 
+  "timeNeedToBlock": 2000  
+}

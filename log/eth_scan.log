@@ -1,0 +1,368 @@
+2025/03/09 16:29:52 Processing log from block: 58455289
+2025/03/09 16:29:52 Log JSON: {
+  "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x0000000000000000000000002fc617e933a52713247ce25730f6695920b3befe",
+    "0x00000000000000000000000009bdc79f4bc782eae4b02efae7ce77afe7ff825a"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000002711",
+  "blockNumber": "0x37bf4f9",
+  "transactionHash": "0x6f309d45fe9121c79cced3284b24972d6c556f2e4a4dcf33073d7411b086fcff",
+  "transactionIndex": "0x3",
+  "blockHash": "0xdaf93aa42c87e666e785238f7c341403fc7af368e9faa09ee201a7e3d4f0e738",
+  "logIndex": "0x3",
+  "removed": false
+}
+2025/03/09 16:29:54 Processing log from block: 58455290
+2025/03/09 16:29:54 Log JSON: {
+  "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x0000000000000000000000002d8e4aaea1c0545e5e0e9b231245649053b29c9f",
+    "0x000000000000000000000000a2fe8e38a14cf7beece22ae71e951f78ce233643"
+  ],
+  "data": "0x00000000000000000000000000000000000000000000000000000000000117b1",
+  "blockNumber": "0x37bf4fa",
+  "transactionHash": "0xd12a9982eb55cc6cd3f60b625841a9a8552c844c84c4108d4e5a936cf14b569b",
+  "transactionIndex": "0x0",
+  "blockHash": "0x045f5f92eca3ffa9aacefab2a3b6f19951e7ea5d8d62ff54711320979f5c2cd5",
+  "logIndex": "0x0",
+  "removed": false
+}
+2025/03/09 16:29:57 Shutting down...
+2025/03/09 16:29:57 Failed to fetch latest block number: client is closed
+2025/03/09 16:29:57 Log subscription error: failed to subscribe to logs: client is closed. Retrying...
+2025/03/09 16:29:57 Log subscription error: failed to subscribe to logs: client is closed. Retrying...
+2025/03/09 16:29:57 Log subscription error: failed to subscribe to logs: client is closed. Retrying...
+2025/03/09 16:29:57 Log subscription error: failed to subscribe to logs: client is closed. Retrying...
+2025/03/09 16:33:31 Shutting down...
+2025/03/09 16:33:31 Failed to fetch latest block number: client is closed
+2025/03/09 16:33:31 Log subscription error: failed to subscribe to logs: context canceled. Retrying...
+2025/03/09 16:33:31 Log subscription error: failed to subscribe to logs: context canceled. Retrying...
+2025/03/09 16:34:18 Shutting down...
+2025/03/09 16:34:18 Failed to fetch missed logs: client is closed
+2025/03/09 16:34:18 Log subscription error: failed to subscribe to logs: client is closed. Retrying...
+2025/03/09 16:35:24 Shutting down...
+2025/03/09 16:35:24 Failed to fetch missed logs: client is closed
+2025/03/09 16:35:24 Log subscription error: failed to subscribe to logs: context canceled. Retrying...
+2025/03/09 16:35:24 Log subscription error: failed to subscribe to logs: context canceled. Retrying...
+2025/03/09 16:36:09 Processing log from block: 313834854
+2025/03/09 16:36:09 Log JSON: {
+  "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x0000000000000000000000000d0707963952f2fba59dd06f2b425ace40b492fe",
+    "0x0000000000000000000000003188c4198f7288fe6b0aa436fe3bbe0f183e51ae"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000002bde780",
+  "blockNumber": "0x12b4bd66",
+  "transactionHash": "0x4698cb47728cf38e9e2288c0d2d72f1e9b40e8cd672c4804f0501e4450f34946",
+  "transactionIndex": "0x1",
+  "blockHash": "0x5d328024852c8c0e7816bb6bc1b5c570cde7d39a0f908d20d09d4543e47e2b1d",
+  "logIndex": "0x0",
+  "removed": false
+}
+2025/03/09 16:36:09 Processing log from block: 313834856
+2025/03/09 16:36:09 Log JSON: {
+  "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x0000000000000000000000006f38e884725a116c9c7fbf208e79fe8828a2595f",
+    "0x0000000000000000000000008c19e9ad4d2c3db1a0966b1b91de325274e233cf"
+  ],
+  "data": "0x00000000000000000000000000000000000000000000000000000000476a039f",
+  "blockNumber": "0x12b4bd68",
+  "transactionHash": "0x03ea3c04b357fcfe89a2c6c8d14cf5e291e44bcfb11b9f664262f3a2d688a023",
+  "transactionIndex": "0x3",
+  "blockHash": "0x7d01f51de26ddd87f2031ea60dfd4b6f0510ecf387ec340e18cf0464e816f64f",
+  "logIndex": "0x4",
+  "removed": false
+}
+2025/03/09 16:36:12 Processing log from block: 313834868
+2025/03/09 16:36:12 Log JSON: {
+  "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x000000000000000000000000b38e8c17e38363af6ebdcb3dae12e0243582891d",
+    "0x000000000000000000000000d86addb33cba249178a2209d55127a82f44d2c1f"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000275c4d",
+  "blockNumber": "0x12b4bd74",
+  "transactionHash": "0x0a1d6c1d109887e2ed5d7d82f249b34dea4603026a7d6891f4c021094739388e",
+  "transactionIndex": "0x2",
+  "blockHash": "0x4b7293c22167c725dfd40e5448c5458ef7a632b47ad71245fd9d7d1872509f2c",
+  "logIndex": "0x13",
+  "removed": false
+}
+2025/03/09 16:36:13 Processing log from block: 313834870
+2025/03/09 16:36:13 Log JSON: {
+  "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x000000000000000000000000bf0f857092d51f58b50c0f2805c25e137439d4d6",
+    "0x0000000000000000000000006c4ce1a68411456c7d44c54e53367c772be6c3d7"
+  ],
+  "data": "0x00000000000000000000000000000000000000000000000000000000005a020e",
+  "blockNumber": "0x12b4bd76",
+  "transactionHash": "0xfda4be604a7e727dc102fa6053f14cff001b008791cb6b820b8516da26b78ffd",
+  "transactionIndex": "0x2",
+  "blockHash": "0xc8e51c66cb678c70e0712c098fb6771ae359c52fa98d93fba447b4f418e0a148",
+  "logIndex": "0x0",
+  "removed": false
+}
+2025/03/09 16:36:14 Processing log from block: 313834873
+2025/03/09 16:36:14 Log JSON: {
+  "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x000000000000000000000000e3507f2dbf4d8f481fcdc4b3033909f6caf5eb51",
+    "0x00000000000000000000000024879113d1f7c5f4dbac196a17a4684c5d5ceba5"
+  ],
+  "data": "0x000000000000000000000000000000000000000000000000000000000897202c",
+  "blockNumber": "0x12b4bd79",
+  "transactionHash": "0x45f1d011465e43b9afc2e5cf3efb88e1d257b1315508be300daa666042aceac2",
+  "transactionIndex": "0x1",
+  "blockHash": "0x9c657e9c28e7963dee53c02022e1775305a0eefba4f569259e39608b150062c1",
+  "logIndex": "0x0",
+  "removed": false
+}
+2025/03/09 16:36:14 Processing log from block: 313834874
+2025/03/09 16:36:14 Log JSON: {
+  "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x000000000000000000000000389e7ce501036d6028ccae37a1f2cd4af3f17950",
+    "0x00000000000000000000000022c294adbc95fe2c4bf53940b44f96060f2ac306"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "blockNumber": "0x12b4bd7a",
+  "transactionHash": "0xe3f12d718d1e969fa93efe19030b6cbece1433554d73b453ec0c6b1891b9a23a",
+  "transactionIndex": "0x1",
+  "blockHash": "0x370201a96715c6b6ae315a3aab57eee3c98db97ed863e7cb33abc88b8d284c12",
+  "logIndex": "0x0",
+  "removed": false
+}
+2025/03/09 16:36:14 Processing log from block: 313834876
+2025/03/09 16:36:14 Log JSON: {
+  "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x0000000000000000000000006f38e884725a116c9c7fbf208e79fe8828a2595f",
+    "0x000000000000000000000000eeeeee9ec4769a09a76a83c7bc42b185872860ee"
+  ],
+  "data": "0x000000000000000000000000000000000000000000000000000000001264896b",
+  "blockNumber": "0x12b4bd7c",
+  "transactionHash": "0xd460b875fda0acb3f69288100ad6c89a5433693d31dab9192223043d605b122c",
+  "transactionIndex": "0x1",
+  "blockHash": "0x144c333d0f05d0f296d1fa3b36de56cf70a3fce5e18f04e3d56b508e089d3b0f",
+  "logIndex": "0x1",
+  "removed": false
+}
+2025/03/09 16:36:15 Processing log from block: 313834880
+2025/03/09 16:36:15 Log JSON: {
+  "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x000000000000000000000000effbc6f1d4f5b6279f8a311d99e4b4b80e29f8bf",
+    "0x000000000000000000000000a51afafe0263b40edaef0df8781ea9aa03e381a3"
+  ],
+  "data": "0x000000000000000000000000000000000000000000000000000000000952a1d9",
+  "blockNumber": "0x12b4bd80",
+  "transactionHash": "0x555111b70bb6809d2cb6909d36aca85fa2177ea7cc846514a66d0eecec97eeca",
+  "transactionIndex": "0x4",
+  "blockHash": "0xa0237e7289ab7dae0b0f55a8643a9276775d2978935574cd6fe9a6e16b8b9a1e",
+  "logIndex": "0x8",
+  "removed": false
+}
+2025/03/09 16:36:16 Processing log from block: 313834883
+2025/03/09 16:36:16 Log JSON: {
+  "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x000000000000000000000000b0f6ca40411360c03d41c5ffc5f179b8403cdcf8",
+    "0x000000000000000000000000410b72ccfeacbb20a31785edaa358d25a07e143d"
+  ],
+  "data": "0x000000000000000000000000000000000000000000000000000000000242c87a",
+  "blockNumber": "0x12b4bd83",
+  "transactionHash": "0x29dcccea69b5f7129fb20aca730961a03512bcb6c854388b57de406e23375268",
+  "transactionIndex": "0x5",
+  "blockHash": "0x5b0fad13bb1331ee5e4362adb154a206e1ab4eb5aee3971ddf759fa6145eb348",
+  "logIndex": "0x17",
+  "removed": false
+}
+2025/03/09 16:36:17 Shutting down...
+2025/03/09 16:36:17 Failed to fetch missed logs: client is closed
+2025/03/09 16:36:17 Log subscription error: failed to subscribe to logs: context canceled. Retrying...
+2025/03/09 16:36:17 Log subscription error: failed to subscribe to logs: client is closed. Retrying...
+2025/03/09 16:36:17 Log subscription error: failed to subscribe to logs: client is closed. Retrying...
+2025/03/09 16:36:17 Log subscription error: failed to subscribe to logs: client is closed. Retrying...
+2025/03/09 16:36:17 Log subscription error: failed to subscribe to logs: client is closed. Retrying...
+2025/03/09 16:36:17 Log subscription error: failed to subscribe to logs: client is closed. Retrying...
+2025/03/09 16:36:17 Failed to fetch latest block number: client is closed
+2025/03/09 16:36:36 Processing log from block: 68832055
+2025/03/09 16:36:36 Log JSON: {
+  "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x00000000000000000000000045dda9cb7c25131df268515131f647d726f50608",
+    "0x000000000000000000000000802b65b5d9016621e66003aed0b16615093f328b"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000003b6c792",
+  "blockNumber": "0x41a4b37",
+  "transactionHash": "0x60d525509bda2ce2811a19e21b523d1672704bad7de5b678df5593ac31fa2444",
+  "transactionIndex": "0x1",
+  "blockHash": "0x51e309206d99ac2f606e70eb7933b08a5677b5f21761b92a6820bf2c95f1a900",
+  "logIndex": "0x3",
+  "removed": false
+}
+2025/03/09 16:36:38 Processing log from block: 68832056
+2025/03/09 16:36:38 Log JSON: {
+  "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x000000000000000000000000ece6886c64c3ac8f83e302a6a71fcb015135d298",
+    "0x0000000000000000000000005871ec37b59bb8f8ca723b4e80f347d0ebe001ff"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000003010b00",
+  "blockNumber": "0x41a4b38",
+  "transactionHash": "0x6be40d57367a7440473802d7b7d8751bd990947c0a094d5be20371091ea7fe2e",
+  "transactionIndex": "0x15",
+  "blockHash": "0x7a6646099281e0f8458312f2127550c9e0da03ab338ca7f57b349055e77bf701",
+  "logIndex": "0x86",
+  "removed": false
+}
+2025/03/09 16:36:39 Processing log from block: 68832057
+2025/03/09 16:36:39 Log JSON: {
+  "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x0000000000000000000000004dd3a4b51154d8ca00777944fdc20ea9d0b3f0ef",
+    "0x000000000000000000000000d36ec33c8bed5a9f7b6630855f1533455b98a418"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000004679fe0",
+  "blockNumber": "0x41a4b39",
+  "transactionHash": "0x7a922f538a9c58affa56c116c16aefa08712eea9901c48c415f2a86d8e4cd407",
+  "transactionIndex": "0x32",
+  "blockHash": "0x20abc35ea9735e92523b16ae750e591fdc99ce7b39397bfcbfc595dffb4d4a1f",
+  "logIndex": "0x157",
+  "removed": false
+}
+2025/03/09 16:36:42 Processing log from block: 68832058
+2025/03/09 16:36:42 Log JSON: {
+  "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x0000000000000000000000004bf5d6423f9d9061ccac463756a4fdbfe41382f9",
+    "0x000000000000000000000000e93183c94f6cbf60b892d6d2a8c920f852369d75"
+  ],
+  "data": "0x000000000000000000000000000000000000000000000000000000001322ae80",
+  "blockNumber": "0x41a4b3a",
+  "transactionHash": "0x8030e7ded38439b0e3ab63bbbc8f656416c00e3844a6565794c34408374f4947",
+  "transactionIndex": "0x5",
+  "blockHash": "0x0a691fa48f35664fde59ad06c77c6367dabba067fd7fe587a8f13826536f4201",
+  "logIndex": "0x12",
+  "removed": false
+}
+2025/03/09 16:36:44 Processing log from block: 68832059
+2025/03/09 16:36:44 Log JSON: {
+  "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x0000000000000000000000009bc2734d5dbcf343e1fc68b0618d99d7713376a9",
+    "0x00000000000000000000000012b938227fae4f044a40e2bd802ce74168b9935a"
+  ],
+  "data": "0x000000000000000000000000000000000000000000000000000000000314ba10",
+  "blockNumber": "0x41a4b3b",
+  "transactionHash": "0x793d42be3617415a4a5f3aa1d36daa39c2286633459e17e034aeca2c92f3116b",
+  "transactionIndex": "0x13",
+  "blockHash": "0xb0c8cbaf82e99b6697713f1df30a7de70ea5fbc35b71c24c6dc0b19b9537aba5",
+  "logIndex": "0x71",
+  "removed": false
+}
+2025/03/09 16:36:46 Processing log from block: 68832060
+2025/03/09 16:36:46 Log JSON: {
+  "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x0000000000000000000000008f3c2e81f65663981bac47dba45eb795bd36d1a4",
+    "0x000000000000000000000000355f188943b6b4c973bf037d1053b34e7c04f18a"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000001394350",
+  "blockNumber": "0x41a4b3c",
+  "transactionHash": "0x04ee65d02da733d04f597f43bab0f2117dc2dc7ebdae3bff1a55eadaca5b6d6a",
+  "transactionIndex": "0xb",
+  "blockHash": "0x4187b6244db4afc0a41332abe7ed5b3bbb61280923a1dfa8e4d9eb867e44eb03",
+  "logIndex": "0x3a",
+  "removed": false
+}
+2025/03/09 16:36:48 Processing log from block: 68832061
+2025/03/09 16:36:48 Log JSON: {
+  "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x000000000000000000000000283a0a5f9e983bcc1c42a14d753bc48ff48e5775",
+    "0x000000000000000000000000889d08cb14ebbde01d874a58ef76e42d95ff710d"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "blockNumber": "0x41a4b3d",
+  "transactionHash": "0x81f3b1498e5cf14746db566e40110f2988c49d2a21bf27fc864ad92f70900041",
+  "transactionIndex": "0x18",
+  "blockHash": "0x481946dd7b31f8b9c5a7fdf5ffe3304ebbc3ee8d5938475dec470846dc2b11aa",
+  "logIndex": "0x75",
+  "removed": false
+}
+2025/03/09 16:36:49 Processing log from block: 68832062
+2025/03/09 16:36:49 Log JSON: {
+  "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x000000000000000000000000ece6886c64c3ac8f83e302a6a71fcb015135d298",
+    "0x0000000000000000000000002de501b41d56b5b64ab44b4300dd5145fe3004af"
+  ],
+  "data": "0x00000000000000000000000000000000000000000000000000000000095c6490",
+  "blockNumber": "0x41a4b3e",
+  "transactionHash": "0x27d057e95290e777abd48ca7008c40adc63bf12793c8ea8568d2f5e62ff6de76",
+  "transactionIndex": "0xe",
+  "blockHash": "0x152e3bc27f9ac78fdc25d5037f6742188e71698df72a5e077ecf13887aed90e8",
+  "logIndex": "0x6f",
+  "removed": false
+}
+2025/03/09 16:36:52 Processing log from block: 68832063
+2025/03/09 16:36:52 Log JSON: {
+  "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x0000000000000000000000009bc2734d5dbcf343e1fc68b0618d99d7713376a9",
+    "0x000000000000000000000000fed773ce903ef544b3d42d3b6b34b2338620f957"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000003d5e730",
+  "blockNumber": "0x41a4b3f",
+  "transactionHash": "0x82bfea722b10da9ae77384733b4cc6f4a641fe50c7a07beda8743c511d198c45",
+  "transactionIndex": "0x10",
+  "blockHash": "0x3920893bff3b8ff405449a80e86b301ea06027f2d5681405e78d61498df5487b",
+  "logIndex": "0x50",
+  "removed": false
+}
+2025/03/09 16:36:56 Processing log from block: 68832064
+2025/03/09 16:36:56 Log JSON: {
+  "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "topics": [
+    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+    "0x0000000000000000000000003a3bd7bb9528e159577f7c2e685cc81a765002e2",
+    "0x000000000000000000000000c5d563a36ae78145c45a50134d48a1215220f80a"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000037034080",
+  "blockNumber": "0x41a4b40",
+  "transactionHash": "0x20e9bf5f696b0d171abd6b45d661ab28e1775aafd97083d4e31a6b3d7e623c40",
+  "transactionIndex": "0x48",
+  "blockHash": "0xf1af486f8a230a7c868aa4ed3753b8d9070823a989e46dbf847a4ab32a2318bb",
+  "logIndex": "0x156",
+  "removed": false
+}
+2025/03/09 16:36:57 Shutting down...
+2025/03/09 16:36:57 Failed to fetch latest block number: client is closed
+2025/03/09 16:36:57 Log subscription error: failed to subscribe to logs: context canceled. Retrying...
+2025/03/09 16:36:57 Log subscription error: failed to subscribe to logs: context canceled. Retrying...
+2025/03/09 16:36:57 Log subscription error: failed to subscribe to logs: client is closed. Retrying...
+2025/03/09 16:36:57 Log subscription error: failed to subscribe to logs: context canceled. Retrying...

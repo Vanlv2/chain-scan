@@ -1,0 +1,12 @@
+{
+  "rpc2": "https://cloudflare-eth.com",
+  "rpc": "https://ethereum-mainnet.core.chainstack.com/fed7a933c71151dbc08bb03bb6c53664",
+  "wssRpc": "wss://ethereum-mainnet.core.chainstack.com/fed7a933c71151dbc08bb03bb6c53664",
+  "ethContractAddress": "",
+  "usdtContractAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+  "usdcContractAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+  "wrappedBTCAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+  "transferSignature": "0xa9059cbb",
+  "chain": "ethereum",
+  "timeNeedToBlock": 10000
+}

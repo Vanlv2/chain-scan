@@ -1,0 +1,12 @@
+{
+  "rpc2": "https://api.avax.network/ext/bc/C/rpc",  
+  "rpc": "https://api.avax.network/ext/bc/C/rpc", 
+  "wssRpc": "wss://avalanche-mainnet.core.chainstack.com/ext/bc/C/ws/e3997ab3e4ff1e4807e62ead6b9d92c4", 
+  "ethContractAddress": "", 
+  "usdtContractAddress": "0xc7198437980c041c805a1edcba50c1ce5db95118", 
+  "usdcContractAddress": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+  "wrappedBTCAddress": "0x50b7545627a5162f82a992c33b87adc75187b218",  
+  "transferSignature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",  
+  "chain": "avalanche", 
+  "timeNeedToBlock": 2000 
+}

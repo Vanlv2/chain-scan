@@ -1,0 +1,12 @@
+{
+  "rpc2": "https://cloudflare-eth.com",
+  "rpc": "https://polygon-rpc.com/",
+  "wssRpc": "wss://polygon-mainnet.core.chainstack.com/0c7a237da98ce89c5f4d13dfc585c806",
+  "ethContractAddress": "",
+  "usdtContractAddress": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
+  "usdcContractAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+  "wrappedBTCAddress": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+  "transferSignature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+  "chain": "polygon",
+  "timeNeedToBlock": 2000
+}
